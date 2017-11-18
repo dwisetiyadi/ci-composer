@@ -1,4 +1,6 @@
 {
-	"description": "Crawler Raw",
-	"name": "crawler/raw"
+    "description": "Kudo Web Engineer Test",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
 }

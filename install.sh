@@ -1,3 +1,4 @@
 #!/bin/bash
-composer install
-git clone https://github.com/bcit-ci/CodeIgniter.git -b 3.1-stable
+
+php composer.phar install
+git clone https://github.com/bcit-ci/CodeIgniter.git framework -b 3.1-stable
