@@ -1,4 +1,5 @@
 {
+    "name": "CI Composer",
     "description": "CI with Composer",
     "require": {
         "guzzlehttp/guzzle": "^6.3"
